@@ -1,0 +1,26 @@
+# Model files (too large for GitHub)
+*.keras
+*.h5
+*.pkl
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Database and uploads
+backend/data/
+backend/uploads/
+
+# Environment secrets
+.env
+.env.example
+
+# Dataset (too large)
+Dataset/
+Dataset_Cleaned/
+Quarantine/
+
+# OS files
+.DS_Store
+Thumbs.db
