@@ -179,6 +179,19 @@ JWT_SECRET=xray_fyp_secret_2024
 
 ---
 
+## Model Download
+
+Models are too large for GitHub. Download from Google Drive:
+
+| Model | Link | Size |
+|-------|------|------|
+| EfficientNetB4_finetuned.keras (Best) | [Download]((https://drive.google.com/file/d/11whDMxIXhlL8ayWziuqeXOcDzLp_FsR-/view?usp=sharing)) | 156 MB |
+| EfficientNetB4_best.keras | [Download]((https://drive.google.com/file/d/1KL8zjR3nfnI1H7a5kb_UnbPG_sxWaJK_/view?usp=sharing)) | 118 MB |
+| xray_model_v3.keras | [Download]((https://drive.google.com/file/d/1FkCeGo2p5JxU1C22GjZjzcR--hPV_S4U/view?usp=sharing)) | 176 MB |
+
+After downloading place models in:
+Models/EfficientNetB4_finetuned.keras
+
 ## ▶️ Running the Application
 
 Open **3 separate terminals** in VS Code:
